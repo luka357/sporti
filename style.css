@@ -1,0 +1,258 @@
+@font-face { 
+	src: url(fonts/didi-sataurebistvis.ttf);
+	font-family: didi-sataurebistvis;
+}
+
+@font-face { 
+	src: url(fonts/bpg_banner_caps.ttf);
+	font-family: teqstistvis;
+}
+
+@font-face { 
+	src: url(fonts/mg-minecraft-georgian-regular.ttf);
+	font-family: patara-sataurebistvis;
+}
+
+
+html, body {
+	margin: 0;
+	padding: 0;
+}
+
+.socials {
+	list-style: none; 
+	background-image: url(https://greenplus.ge/wp-content/uploads/2018/07/perfect-lawn-370x244.jpg);
+	padding: 0px;
+	margin: 0px;
+}
+
+.socials img {
+	display: inline-block;
+	height: 32px;
+	width: 32px;
+	margin-top: 15px;
+	margin-bottom: 15px;
+}
+
+.socials li {
+	display: inline-block;
+}
+
+.socials a {
+	display: inline-block;
+	height: 32px;
+}
+
+.logo {
+	display: inline-block;
+	height: 175px;
+	margin-left: 70px;
+}
+
+.main-head {
+	font-family: didi-sataurebistvis;
+}
+
+.paragraph {
+	font-family: teqstistvis;
+}
+
+.nav li {
+	display: inline-block;
+	list-style: none; 
+	padding-right: 250px;
+}
+
+.footer {
+	background-color: #333333;
+}
+
+.head-2 {
+	font-family: patara-sataurebistvis;
+}
+
+.head-2 ul, li {
+	font-family: teqstistvis;
+}
+
+.head-2 ul, li, a {
+	text-decoration: none;
+	color: blue;
+}
+
+.head-2 ul, li, a:hover {
+	color: red;
+}
+
+.footer p {
+	color: white;
+}
+
+.footer li {
+	list-style: none; 
+}
+
+.footer ul {
+	margin: 0px;
+	padding: 0px;
+}
+
+.logo-2 {
+	margin-left: 900px;
+	margin-bottom: 48px;
+	border-radius: 15px;
+}
+
+.beisball-basketball-football  {
+	list-style: none; 
+	margin-left: 390px;
+}
+
+.beisball-1 {
+	border-radius: 15px;
+	height: 225px;
+	width: 225px;
+	margin-right: 20px;
+}
+
+.basketball-1 {
+	border-radius: 15px;
+	height: 225px;
+}
+
+.football-1 {
+	border-radius: 15px; 
+	height: 225px;
+	margin-left: 20px;
+}
+
+.beisball-basketball-football li {
+	display: inline-block;
+}
+
+.socials-1 {
+	background-image: url(images/baseball.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 160px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.header-3 {
+	text-align: center;
+	margin-top: 0px;
+	font-size: 50px;
+	font-family: didi-sataurebistvis; 
+}
+
+.baseball-text {
+	font-size: 14px;
+	font-family: teqstistvis;
+}
+
+.logo-3 {
+	display: inline-block;
+}
+
+.beisball-basketball-football li a {
+	display: inline-block;
+}
+
+.mtavari {
+	color: red;
+}
+
+.mtavari:hover {
+	color: blue;
+}
+
+.footer-2 {
+	margin: 0px;
+	padding: 0px;
+}
+
+.basketball-text {
+	font-family: teqstistvis;
+}
+
+.istoria {
+	font-family: patara-sataurebistvis;
+}
+
+.istoria-teqsti {
+	font-family: teqstistvis;
+}
+
+.header-4 {
+	font-family: patara-sataurebistvis;
+}
+
+.wesebi {
+	font-family: teqstistvis;
+}
+
+.socials-3 {
+	background-image: url(images/basketball-2.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 160px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.football-image {
+	background-image: url(images/football-image.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 160px;
+	padding: 0px;
+	margin: 0px;
+}
+
+.nav-2 li {
+	display: inline-block;
+	list-style-type: none;
+}
+
+.baseball-head {
+	padding-left: 30px;
+}
+
+.header-5 {
+	font-family: patara-sataurebistvis;
+	text-align: center;
+}
+
+.kvirikashvili {
+	text-align: right;
+}
+
+.link-2 {
+	color: blue;
+}
+
+.link-2:hover {
+	color: black;
+	text-decoration-line: underline;
+}
+
+.about {
+	display: inline-block;
+}
+
+.beisball-basketball-football-2 li a {
+	display: inline-block;
+}
+
+.beisball-basketball-football-2 li {
+	display: inline-block;
+}
+
+.beisball-basketball-football-2 {
+	list-style: none; 
+	margin-left: 10px;
+}
